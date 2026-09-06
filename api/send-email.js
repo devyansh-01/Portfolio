@@ -54,7 +54,7 @@ export default async function handler(req, res) {
       to: CONTACT_TO_EMAIL,
       replyTo: email,
       subject: `New portfolio message from ${name}`,
-      text: `New portfolio message\n\nFrom: ${name} <${email}>\nReceived: ${receivedAt} IST\n\n${message}\n\n— Sent from prajjwal-rajput.dev`,
+      text: `New portfolio message\n\nFrom: ${name} <${email}>\nReceived: ${receivedAt} IST\n\n${message}\n\n— Sent via your portfolio contact form`,
       html: renderEmail({ name, email, message, receivedAt }),
     });
 
@@ -144,7 +144,7 @@ function renderEmail({ name, email, message, receivedAt }) {
                 <table role="presentation" cellpadding="0" cellspacing="0" border="0">
                   <tr>
                     <td style="border-radius:10px;background:linear-gradient(135deg,#7c3aed,#3b82f6);">
-                      <a href="mailto:${safeEmail}?subject=Re:%20your%20message%20on%20prajjwal-rajput.dev"
+                      <a href="mailto:${safeEmail}?subject=Re:%20your%20portfolio%20message"
                          style="display:inline-block;padding:12px 22px;font-size:14px;font-weight:600;color:#ffffff;text-decoration:none;">
                         Reply to ${safeName}
                       </a>
@@ -159,8 +159,7 @@ function renderEmail({ name, email, message, receivedAt }) {
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
                   <tr>
                     <td style="font-size:12px;color:#8a8ba0;">
-                      Sent from
-                      <a href="https://prajjwal-rajput.dev" style="color:#a78bfa;text-decoration:none;">prajjwal-rajput.dev</a>
+                      Sent via your portfolio contact form
                     </td>
                     <td align="right" style="font-size:12px;color:#8a8ba0;">
                       Auto-delivered via Resend
