@@ -1,78 +1,98 @@
-# 🚀 Aditya Verma — Developer Portfolio
+# 🚀 Devyansh Singh — Developer Portfolio
 
-Welcome to my personal portfolio repository! This project showcases my skills, projects, experience, and journey as a developer.
+Welcome to my personal portfolio repository! This project showcases my projects, technical journey, interests, and experience as a Computer Science student specializing in Data Science.
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Aditya Verma**, a passionate developer who enjoys building modern, useful, and user-friendly applications.
+Hi, I'm **Devyansh Singh**, a Computer Science student specializing in Data Science.
 
-I'm continuously learning new technologies, improving my problem-solving skills, and turning ideas into real-world projects.
+I'm passionate about building practical software solutions and exploring the intersection of **backend engineering, data, and AI**. I enjoy understanding how systems work behind the scenes, solving challenging problems, and turning ideas into useful applications.
+
+I'm continuously learning, experimenting with new technologies, and improving my ability to build reliable and meaningful software.
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
+### Programming
+- Python
+- C
+- C++
+- SQL
 
-> _Technologies may be updated as I continue learning and exploring new tools._
+### Backend & Web
+- Flask
+- REST APIs
+- React
+
+### Data & Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Tableau
+- Excel
+
+### Databases
+- MySQL
+- PostgreSQL
+- Snowflake
+
+### Tools & Platforms
+- Git
+- GitHub
+- Docker
+- Redis
+- Jupyter Notebook
 
 ## 🌐 Portfolio
 
-🔗 **Live Portfolio:** Add your portfolio link here
+🔗 **Live Portfolio:** Add your deployed portfolio link here
 
 ## 📂 Projects
 
-### 🔹 Project 1
+### 🔹 Insyte — Smart Dataset Analyzer
 
-Add a short description of your project here.
+An automated dataset analysis platform that processes datasets, performs data cleaning, generates statistical summaries, visualizations, and automated insights.
 
-**Tech:** Add technologies used
+**Tech:** Python, Pandas, NumPy, Matplotlib, Streamlit
 
-### 🔹 Project 2
+### 🔹 IPL Data Analysis
 
-Add a short description of your project here.
+Analyzed IPL datasets covering 15+ seasons and 10,000+ match records to identify player and team performance trends, scoring patterns, venue-based trends, and match insights.
 
-**Tech:** Add technologies used
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
 
-### 🔹 Project 3
+## 🏆 Certifications & Achievements
 
-Add a short description of your project here.
+- **Data Analytics Job Simulation — Deloitte (Forage)**  
+  Completed practical tasks in data analysis and forensic technology.
 
-**Tech:** Add technologies used
+- **Data Management Certification — TCS iON**  
+  Covered data handling, storage, and data processing fundamentals.
+
+- **Smart India Hackathon 2025 — College Round**  
+  Selected as part of a team that developed an AI/ML-based text-to-text machine translation system for converting Nepalese and Sinhalese text into English.
 
 ## ✨ Portfolio Highlights
 
-- 📱 Responsive design
-- 🎨 Modern and clean UI
-- 💻 Projects showcase
-- 🧑‍💻 Skills & technologies
-- 📄 Resume / experience
-- 📬 Contact section
+- 💻 Backend & software development
+- 📊 Data-driven applications
+- 🤖 AI-powered solutions
+- 📈 Data visualization
+- 🚀 Practical project development
+- 📄 Resume & experience showcase
+- 📬 Contact & professional profiles
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Engineering — Data Science**  
+JSS Academy of Technical Education, Noida  
+**2023 – 2027**
 
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/devyansh-01/portfolio.git
+cd portfolio
 npm install
 npm run dev
-```
-
-## 📫 Connect With Me
-
-- **GitHub:** Add your GitHub profile
-- **LinkedIn:** Add your LinkedIn profile
-- **Email:** Add your email
-
-## ⭐ Show Your Support
-
-If you like my portfolio or find any of my projects interesting, feel free to ⭐ the repository!
-
----
-
-### 💙 Built with passion by **Aditya Verma**
