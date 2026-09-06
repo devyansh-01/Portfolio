@@ -13,7 +13,7 @@ const PROJECTS = [
     tech: ["Python", "Pandas", "NumPy", "Matplotlib", "Streamlit"],
     image: insyteImg,
     github: "https://github.com/devyansh-01",
-    demo: null,
+    demo: "https://insyte-dataset-analyzer-btpqnnvvlfr87pn3dkarjw.streamlit.app/",
     highlights: [
       {
         title: "Automated Dataset Processing",
